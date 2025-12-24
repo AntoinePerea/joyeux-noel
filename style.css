@@ -194,7 +194,7 @@ color: #131718; }
 .hero {
 
 height: 100vh;  
-background-image: url('img/herocab3.webp'); 
+background-image: url('img/herocab3.jpg'); 
 background-size: cover;  
 background-position: mirror;
 background-position: center; 
@@ -668,6 +668,7 @@ text-align:start;}
   flex-grow: 1;
   text-align:start;
   font-size:0.8em;
+  padding-left:1rem;
 }
 
 /*.pourcard button {
