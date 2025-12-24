@@ -1,4 +1,4 @@
- // Shrink navbar on scroll 
+ /*Navbar shrink */
  
  window.addEventListener("scroll", function() { 
     
@@ -17,7 +17,7 @@
     
 
 
-    // Toggle menu for mobile 
+    /*menu toggle */
     
     const toggle = document.getElementById("menu-toggle");
     const navLinks = document.getElementById("nav-links");

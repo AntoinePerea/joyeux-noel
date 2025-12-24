@@ -1,5 +1,5 @@
 
-html { scroll-behavior: smooth; scroll-padding-top: 0; /* optional */ }
+html { scroll-behavior: smooth; scroll-padding-top: 0;  }
 
 
 .fade-in { 
@@ -59,7 +59,7 @@ a {text-decoration: none;}
      align-items: center; 
      padding: 0.5rem 2%; 
      
-     /* thick padding */ 
+     
         
      transition: padding 0.3s ease; 
      z-index: 1000; 
@@ -164,7 +164,7 @@ color: #131718; }
   position: fixed; 
   bottom: 30px; 
   right: 30px; 
-  width: 150px; /* adjust as needed */ 
+  width: 150px; 
   padding: 10px; 
   background: white; 
   border-radius: 8px; 
@@ -174,7 +174,7 @@ color: #131718; }
   align-items: center; 
   gap: 10px; 
   cursor: pointer; 
-  text-decoration: none; /* remove underline */ 
+  text-decoration: none; 
   z-index:50;
 
 } 
@@ -688,13 +688,13 @@ text-align:start;}
 /* Responsive */
 @media (max-width: 900px) {
   .cards-grid {
-    grid-template-columns: repeat(2, 1fr); /* 2 columns */
+    grid-template-columns: repeat(2, 1fr); 
   }
 }
 
 @media (max-width: 600px) {
   .cards-grid {
-    grid-template-columns: 1fr; /* 1 column */
+    grid-template-columns: 1fr; 
   }
 }
 
@@ -1109,7 +1109,7 @@ font-weight:600;
       border: 1px solid #e5e7eb;
       border-radius: 12px;
       box-shadow: 0 1px 2px rgba(0,0,0,.06), 0 4px 10px rgba(0,0,0,.06);
-      margin-bottom: 20px; /* space between boxes */
+      margin-bottom: 20px; 
       overflow: hidden;
       
     }
