@@ -5,7 +5,7 @@ html { scroll-behavior: smooth; scroll-padding-top: 0;  }
 .fade-in { 
   opacity: 0; 
   transform: translateY(20px); 
-  transition: opacity 0.6s ease, transform 0.6s ease; } 
+  transition: opacity 0.5s ease, transform 0.5s ease; } 
   
   .fade-in.visible { 
     opacity: 1; 
@@ -1662,8 +1662,20 @@ font-size:0.8rem;
 
 
 
-}
 
+.footsocials > * {
+
+ 
+  height:40px;
+  width:40px;
+ 
+}
+.footsocials img { 
+  height:20px;
+  width:20px;
+
+}
+}
 
 @media (min-width:1091px) { 
         
