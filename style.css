@@ -194,7 +194,7 @@ color: #131718; }
 .hero {
 
 height: 100vh;  
-background-image: url('img/herocab3.jpg'); 
+background-image: url('img/herocab3.webp'); 
 background-size: cover;  
 background-position: mirror;
 background-position: center; 
@@ -1076,7 +1076,7 @@ padding:1rem;
    scroll-margin-top: 70px;
   /*background: center fixed;*/
   background-color: #c5ced0;
-  background-image: url("img/faq2.png");
+  background-image: url("img/faq2.webp");
   background-size:cover;
   background-repeat: no-repeat;
   /*padding:7rem 0rem;*/
