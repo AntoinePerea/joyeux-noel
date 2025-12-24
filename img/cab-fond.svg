@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="cab-fond.svg"
+   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="197.28279"
+     inkscape:cy="637.10321"
+     inkscape:window-width="1925"
+     inkscape:window-height="1302"
+     inkscape:window-x="784"
+     inkscape:window-y="97"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       id="path1"
+       style="fill:#9db5b4;stroke:#000000;stroke-width:0.264583"
+       cx="1.1556419"
+       cy="0.57782096"
+       r="0.038482599" />
+    <path
+       style="fill:#dbe1e0;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+       d="M -23.690661,-20.512646 Z"
+       id="path2" />
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#444444;stroke-width:0.264999;stroke-dasharray:0,2.91498902;stroke-opacity:1;stroke-dashoffset:0"
+       id="rect9"
+       width="10.980618"
+       height="8.4269867"
+       x="171.6041"
+       y="119.15248" />
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#444444;stroke-width:0.264999;stroke-dasharray:0, 2.91499;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect10"
+       width="5.5669184"
+       height="6.8948069"
+       x="146.47635"
+       y="107.7122" />
+    <path
+       id="path11"
+       style="fill:#dbe1e0;fill-opacity:1;fill-rule:evenodd;stroke:#444444;stroke-width:0.304077;stroke-dasharray:0, 3.34485;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -20.205416,-9.7287306 V 309.81858 H 14.097813 L 149.25677,52.502503 36.36948,-9.7287306 Z" />
+  </g>
+</svg>
