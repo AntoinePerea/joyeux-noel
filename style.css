@@ -109,7 +109,7 @@ a {text-decoration: none;}
 
 .name {
 
-    font-family: "Noto Serif Display", serif;
+    font-family: "Noto Serif Display", "serif";
     color: #314347;
     font-size:11px;
 
@@ -194,7 +194,7 @@ color: #131718; }
 .hero {
 
 height: 100vh;  
-background-image: url('img/herocab3.webp'); 
+background-image: url('img/herocab3comp.webp'); 
 background-size: cover;  
 background-position: mirror;
 background-position: center; 
@@ -1266,7 +1266,7 @@ gap:2rem;
 
 align-self:center;
 color:white;
-font-family: "Montserrat";
+font-family: "Montserrat", "sans serif";
 font-weight:600
 ;
 }
