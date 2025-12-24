@@ -1602,6 +1602,7 @@ display:none;}
 .navbar {
 padding:5px; }
 
+.navbar.shrink {padding: 1rem 2rem 0.2rem 2rem;;}
 
 #logo {
 
