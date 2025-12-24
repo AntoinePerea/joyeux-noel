@@ -926,7 +926,7 @@ background-color: #fff;
 
 
 .contains-card {
-  padding:1rem 2rem;
+  padding:1rem ;
   background-color: var(--aviclr);
   flex-wrap: wrap;
   justify-content: center;
@@ -1660,7 +1660,10 @@ font-size:0.8rem;
 
 .cab-btn {font-size:0.8rem;}
 
+.contains-card {
+  padding:0;
 
+}
 
 
 .footsocials > * {
